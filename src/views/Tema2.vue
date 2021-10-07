@@ -8,20 +8,20 @@
         span 2
       h1 Diseño y planos técnicos
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade" data-aos-delay="500")
       img(src="@/assets/curso/tema2-imagen1.svg")
 
-    p.mb-5 El dibujo técnico es la rama de representación que se emplea en la industria para representar los objetos a realizar. Su diferencia con la ilustración, es que el dibujo técnico es normalizado o estandarizado internacionalmente, ya que usa medidas precisas (llamadas cotas) que orientan la fabricación de los productos.
+    p.mb-5(data-aos="fade" data-aos-delay="500") El dibujo técnico es la rama de representación que se emplea en la industria para representar los objetos a realizar. Su diferencia con la ilustración, es que el dibujo técnico es normalizado o estandarizado internacionalmente, ya que usa medidas precisas (llamadas cotas) que orientan la fabricación de los productos.
       br
       br
       | En el diseño de modas se emplea para hacer los planos técnicos (geometrales) tanto de las prendas como de los insumos y accesorios a emplear.
     
     Separador
 
-    #t_2_1.titulo-segundo
+    #t_2_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.1  Dibujo técnico: escuadra, ángulos y líneas paralelas
 
-  .container.tarjeta.tarjeta--fucsia.p-4.p-md-5.no-borders.top.bottom
+  .container.tarjeta.tarjeta--fucsia.p-4.p-md-5.no-borders.top.bottom(data-aos="fade" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-lg-8.mb-lg-0.mb-5
         p.mb-0.text-white El dibujo como medio de expresión, desempeña un papel de primer orden en las actividades humanas, puesto que antes de que se cree el proyecto, cualquiera que sea, es necesario diseñarlo con sus características e indicaciones en un dibujo. El dibujo técnico es una rama del dibujo, que se emplea en la industria, para representar objetos o ideas técnicas de carácter práctico, por medio de líneas, símbolos y convenciones se otorga información útil a quien llevará a cabo su materialización.
@@ -36,7 +36,7 @@
           img(src="@/assets/curso/tema2-imagen2.svg")
 
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.no-borders.top.bottom
-    TabsC.color-primario.mb-5
+    TabsC.color-primario.mb-5(data-aos="fade" data-aos-delay="500")
       .py-3.py-md-4.box-blue-soft-2(titulo="Para qué es el<br>dibujo técnico")
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
@@ -83,19 +83,19 @@
                 p <strong>Video.</strong> Uso de escuadra y cartabón, paralelas y perpendiculares.
 
     .row.justify-content-center
-      .col-md-4.mb-md-0.mb-5
+      .col-md-4.mb-md-0.mb-5(data-aos="fade-down" data-aos-delay="500")
         a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema2-imagen7.svg")
           .anexo__texto
             p <strong>Anexo.</strong> Dibujo y sistemas de representación. Uso de las escuadras
-      .col-md-4.mb-md-0.mb-5
+      .col-md-4.mb-md-0.mb-5(data-aos="fade-up" data-aos-delay="500")
         a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema2-imagen7.svg")
           .anexo__texto
             p <strong>Anexo.</strong> Uso de escuadras como hacer rectas paralelas y perpendiculares
-      .col-md-4
+      .col-md-4(data-aos="fade-down" data-aos-delay="500")
         a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
@@ -107,10 +107,10 @@
     #t_2_2.titulo-segundo
       h2 2.2  Líneas rectas, lenguaje de líneas y escalas
 
-    p.mb-0 En el dibujo técnico se emplean diferentes tipos de líneas para describir las figuras de los objetos a realizar. Las más conocidas son:
+    p.mb-0(data-aos="fade" data-aos-delay="500") En el dibujo técnico se emplean diferentes tipos de líneas para describir las figuras de los objetos a realizar. Las más conocidas son:
 
 
-  .container.tarjeta.tarjeta--fucsia.p-4.p-md-5.no-borders.top.bottom
+  .container.tarjeta.tarjeta--fucsia.p-4.p-md-5.no-borders.top.bottom(data-aos="fade" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-lg-5.mb-lg-0.mb-5
         figure
@@ -123,7 +123,7 @@
           br
           br
           | (González, 2017; Pérez, 1998; SENA et al., 1984; Significados, s.f.).
-  .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom
+  .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom(data-aos="fade" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-md-4.mb-md-0.mb-5
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
@@ -143,7 +143,7 @@
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Aprende sobre el uso del escalímetro en un minuto. Modos de uso del escalímetro.
-  .container.tarjeta.tarjeta--azul.p-4.p-md-5.no-borders.top.bottom
+  .container.tarjeta.tarjeta--azul.p-4.p-md-5.no-borders.top.bottom(data-aos="fade" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-md-3.mb-md-0.mb-5
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
@@ -174,10 +174,10 @@
 
     Separador
 
-    #t_2_3.titulo-segundo
+    #t_2_3.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.3  Dibujo desde la observación, plano técnico y cotas
 
-    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen9.jpg')})`}"
       )
@@ -187,7 +187,7 @@
           br
           | El plano técnico es la representación bidimensional (2D) de un objeto, consta de las siguientes vistas: planta, alzado, inferior, perfil derecho, perfil izquierdo y posterior, de las cuales se presentan las que sean requeridas; es decir, si llevan información se tienen en cuenta, de lo contrario se omiten.
 
-    p.mb-5 Adicional a las vistas, se presentan los cortes, en los cuales se muestran partes internas o detalles de los productos.
+    p.mb-5(data-aos="fade-down" data-aos-delay="500") Adicional a las vistas, se presentan los cortes, en los cuales se muestran partes internas o detalles de los productos.
       br
       br
       | El proceso de acotado o marcación de las cotas es fundamental en el dibujo técnico, pues es con estas que se determinan medidas, diámetros, espesores, ángulos y proporciones. Un correcto acotado tiene el número preciso de las medidas, ni más, ni menos de las necesarias.
@@ -195,38 +195,38 @@
       br
       | Adaptado de Arturo Geometría (2019); Biguri (s.f.); Etiduela (s.f.); Raya & Dibujar Bien. (2013).
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-down" data-aos-delay="500")
       .col-11
         figure
           img(src="@/assets/curso/tema2-imagen10.svg")
 
   .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom
     .row.justify-content-center.align-items-center
-      .col-md-4.mb-5
+      .col-md-4.mb-5(data-aos="fade-right" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Cómo dibujar bien: secretos de las proporciones y medidas.
-      .col-md-4.mb-5
+      .col-md-4.mb-5(data-aos="fade-down" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Técnicas para aprender a dibujar - el trazo y ejercicios para calentar.
-      .col-md-4.mb-5
+      .col-md-4.mb-5(data-aos="fade-left" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Manejo de compás.
-      .col-md-4.mb-md-0.mb-5
+      .col-md-4.mb-md-0.mb-5(data-aos="fade-right" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Curso de Geometrales y Fichas Técnicas.
-      .col-md-4
+      .col-md-4(data-aos="fade-left" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
@@ -235,25 +235,25 @@
 
   .container.tarjeta.tarjeta--azul.p-4.p-md-5.no-borders.top.bottom
     .row.justify-content-center.align-items-center
-      .col-md-3.mb-md-0.mb-5
+      .col-md-3.mb-md-0.mb-5(data-aos="fade-right" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong> Vista de piezas.
-      .col-md-3.mb-md-0.mb-5
+      .col-md-3.mb-md-0.mb-5(data-aos="fade-down" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong>  Imágenes en Pinterest - dimensión cota.
-      .col-md-3
+      .col-md-3(data-aos="fade-up" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong> Geometrales.
-      .col-md-3
+      .col-md-3(data-aos="fade-left" data-aos-delay="500")
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
@@ -263,10 +263,10 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.no-borders.top.bottom
     Separador
 
-    #t_2_4.titulo-segundo
+    #t_2_4.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.4  Transformaciones geométricas, ángulos y proyecciones
 
-    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen11.jpg')})`}"
       )
@@ -287,7 +287,7 @@
               .anexo__texto
                 p <strong>Video.</strong> Giro de una figura (Transformaciones geométricas: Igualdad).
     
-  .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom
+  .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom(data-aos="fade-down" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-md-4.mb-5
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")

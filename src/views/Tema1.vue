@@ -8,19 +8,19 @@
         span 1
       h1 Teoría de la Forma
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-right" data-aos-delay="500")
       img(src="@/assets/curso/tema1-imagen1.jpg")
 
-    p.mb-5 Para el desarrollo de un producto de moda, es fundamental el conocimiento de “Teoría de la forma”, para comprender, conceptualizar y aplicar las diferentes temáticas relacionadas con el cuerpo humano, para transformarlo y modificar su apariencia, estructura y estética.
+    p.mb-5(data-aos="fade-left" data-aos-delay="500") Para el desarrollo de un producto de moda, es fundamental el conocimiento de “Teoría de la forma”, para comprender, conceptualizar y aplicar las diferentes temáticas relacionadas con el cuerpo humano, para transformarlo y modificar su apariencia, estructura y estética.
     
     .row.justify-content-center.mb-5 
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right" data-aos-delay="500")
         .bloque-texto-d.color-acento-contenido.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             h4.text-regular (…) la fabricación de la primera envolvencia corporal se concibe, desde sus orígenes como un proyecto arquitectónico desde la epidermis, se transfiere a la piel artificial los anhelos de metamorfosis implícitos en el ser humano, que en un proceso de mutación de forma, textura y color en el lienzo térmico se transforma modificando su identidad.
             i.fas.fa-quote-right
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left" data-aos-delay="500")
         .bloque-texto-d.color-acento-contenido.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
@@ -29,39 +29,39 @@
           .bloque-texto-d__autor 
             .h6.mb-0 (Alcoceba, 2015, p. 19 y 20)
 
-    .bloque-texto-c.color-acento-contenido.p-4.mb-5
+    .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-down" data-aos-delay="500")
       i.fas.fa-quote-right
       h4.text-regular.mb-2 Además de proteger el cuerpo ante las inclemencias climáticas y de las hostilidades del ambiente que nos rodea, el vestido nos distingue. Se presenta como símbolo de pertenencia a cierto grupo étnico o a cierto estatus social. Paradójicamente, el vestido nos individualiza a la vez que nos hace desaparecer frente a nuestros semejantes.
       .h5.mb-0 (Avilés, 2016, p. 3)
 
-    p.mb-5 En el mundo visual la forma es percibida e interpretada por los sentidos, todo se estructura alrededor de como sean percibidas las sensaciones. El objetivo fundamental de esta temática es generar una invitación a explorar nuevas maneras de interpretar y llevar a un estado visual las sensaciones generadas en el cerebro como producto de los estímulos externos, teorizar y recoger conceptos acerca de las formas y plantear el concepto de “Forma” a partir del entorno natural, abstracto e imaginario de acuerdo a las experiencias previas del individuo.
+    p.mb-5(data-aos="fade-down" data-aos-delay="500") En el mundo visual la forma es percibida e interpretada por los sentidos, todo se estructura alrededor de como sean percibidas las sensaciones. El objetivo fundamental de esta temática es generar una invitación a explorar nuevas maneras de interpretar y llevar a un estado visual las sensaciones generadas en el cerebro como producto de los estímulos externos, teorizar y recoger conceptos acerca de las formas y plantear el concepto de “Forma” a partir del entorno natural, abstracto e imaginario de acuerdo a las experiencias previas del individuo.
       br
       br
       | El oído, el gusto, el tacto, la visión y el olfato son el principal medio de construcción de la forma.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-down" data-aos-delay="500")
       .col-lg-10
         figure
           img(src="@/assets/curso/tema1-imagen2.svg")
 
     Separador
 
-    #t_1_1.titulo-segundo
+    #t_1_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 1.1  La forma y sus significados, la psicología de la Gestal
 
-    p.mb-5 La forma es todo lo que el ojo puede ver o interpretar y se asocia a diferentes conceptos, partiendo del punto, que es la mínima expresión de la representación espacial, es el principio o es el final.
+    p.mb-5(data-aos="fade" data-aos-delay="500") La forma es todo lo que el ojo puede ver o interpretar y se asocia a diferentes conceptos, partiendo del punto, que es la mínima expresión de la representación espacial, es el principio o es el final.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="500")
       .col-lg-9
         .box-soft.color-acento-contenido.p-5
           LineaTiempoB.color-acento-botones.mb-5(:datos="datosLineaTiempoB")
     
-    .bloque-texto-c.color-acento-contenido.p-4.mb-5
+    .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-left" data-aos-delay="500")
       i.fas.fa-quote-right
       h4.text-regular.mb-2 (…) el todo es siempre más que la suma de sus partes”. Esta frase revela exactamente los principios de la teoría de esta corriente: es decir, descubrir por qué el cerebro humano tiende a interpretar un conjunto de elementos diferentes como un único mensaje, y cómo nuestra mente agrupa las informaciones que recibimos en categorías mentales que nosotros mismos hemos establecido. En el ámbito de las artes gráficas, este estudio de la percepción es fundamental a la hora de analizar cómo el ojo humano lee un determinado esquema, cómo distingue las formas y los elementos que lo componen y la unidad del mensaje y del significado.
       .h5.mb-0 (Lorella, 2016)
 
-    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1-imagen10.jpg')})`}"
       )
@@ -71,7 +71,7 @@
           br
           | En el material complementario encuentra el video “La teoría de Gestalt” y el blog “¿Qué es la teoría de la Gestalt?” que le ayudarán a construir un panorama más amplio de este tema.
 
-    .carousel-additional
+    .carousel-additional(data-aos="fade" data-aos-delay="500")
       #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
         .carousel-indicators
           button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')
@@ -170,10 +170,10 @@
 
     Separador
     
-    #t_1_2.titulo-segundo
+    #t_1_2.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 1.2  Semiótica, semántica, simbolización de las formas y volúmenes
 
-    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1-imagen10.jpg')})`}"
       )
@@ -184,14 +184,14 @@
           | En el material complementario encuentra el video “La teoría de Gestalt” y el blog “¿Qué es la teoría de la Gestalt?” que le ayudarán a construir un panorama más amplio de este tema.
 
     .row.justify-content-center.align-items-center.box-blue-soft.mb-5
-      .col-lg-5.mb-5.mb-lg-0
+      .col-lg-5.mb-5.mb-lg-0(data-aos="fade-right" data-aos-delay="500")
         figure
           img(src="@/assets/curso/tema1-imagen21.svg")
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left" data-aos-delay="500")
         p.mb-0 Lo anterior, lleva a entender que cada cuerpo es diferente, aunque conserve una misma estructura y que el vestuario es el encargado de transformarlo, la selección de este puede favorecer o desfavorecer la apariencia estética, existen múltiples opciones, la decisión final le pertenece a cada individuo, quien visualiza, vive y siente el mundo como lo percibe.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-7.mb-5.mb-lg-0
+      .col-lg-7.mb-5.mb-lg-0(data-aos="fade-right" data-aos-delay="500")
         p.mb-5 Es tarea del profesional de la moda, utilizar las herramientas, que le dan múltiples opciones para transformar la forma del cuerpo por medio del vestuario, teniendo siempre presente que los excesos son perjudiciales y es el control (o límite), la clave para:
         ul.lista-ul--color
           li 
@@ -215,18 +215,18 @@
           li 
             i.lista-ul__vineta
             | Controlar o descontrolar.
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left" data-aos-delay="500")
         figure
           img(src="@/assets/curso/tema1-imagen22.svg")
 
-    p.mb-5 De esta manera es como se logra obtener volúmenes y diferentes simbolizaciones de la forma.
+    p.mb-5(data-aos="fade" data-aos-delay="500") De esta manera es como se logra obtener volúmenes y diferentes simbolizaciones de la forma.
       br
       br
       | Un aspecto relevante de la semiótica es el manejo, aplicación y control del color, este representa uno de los elementos más poderosos para captar la atención y producir reacciones emocionales en el receptor.
 
     .row.justify-content-center
   
-  .container.tarjeta.tarjeta--azul.p-4.p-md-5.no-borders.top.bottom
+  .container.tarjeta.tarjeta--azul.p-4.p-md-5.no-borders.top.bottom(data-aos="fade-down" data-aos-delay="500")
     p.mb-5.text-center
       strong Analice un poco más a fondo esta temática revisando:
     .row.justify-content-center
@@ -247,10 +247,10 @@
 
     Separador
 
-    #t_1_3.titulo-segundo
+    #t_1_3.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 1.3  Formas geométricas, formas naturales
 
-    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1-imagen25.jpg')})`}"
       )
@@ -263,36 +263,36 @@
           br
           | Las formas anguladas como el cuadrado, que es una representación estática y estable se asocia a ideas de estabilidad, permanencia, torpeza, honestidad, rectitud, esmero, rigidez, seriedad y equilibrio.
 
-    p.mb-5 Las líneas rectas y precisas también transmiten un sentimiento de fuerza, profesionalismo y eficiencia, como la línea vertical que sugiere equilibrio, fuerza, dignidad, nacimiento, espiritualidad, ascenso, elevación y vida; la horizontal genera estabilidad, enfatiza y sugiere reposo, pasividad, estabilidad y muerte. Las líneas ascendentes sugieren decisión juventud y salida, las perpendiculares sugieren apoyo y firmeza; formas anguladas sugieren elevación y misticismo, las quebradas peligro, energía, nerviosismo y conflicto; las curvas de movimiento ondulante son femeninas, maternales y sensuales; la espiral indica movimiento continuo y evolución, cambio, creatividad originalidad y rompe con lo establecido, también se les relaciona con la tecnología y el deporte, los trazos delgados y suaves evocan la fragilidad y delicadeza, así como la sencillez de la elegancia, los gruesos generan la sensación de solidez y mayor peso.
+    p.mb-5(data-aos="fade-down" data-aos-delay="500") Las líneas rectas y precisas también transmiten un sentimiento de fuerza, profesionalismo y eficiencia, como la línea vertical que sugiere equilibrio, fuerza, dignidad, nacimiento, espiritualidad, ascenso, elevación y vida; la horizontal genera estabilidad, enfatiza y sugiere reposo, pasividad, estabilidad y muerte. Las líneas ascendentes sugieren decisión juventud y salida, las perpendiculares sugieren apoyo y firmeza; formas anguladas sugieren elevación y misticismo, las quebradas peligro, energía, nerviosismo y conflicto; las curvas de movimiento ondulante son femeninas, maternales y sensuales; la espiral indica movimiento continuo y evolución, cambio, creatividad originalidad y rompe con lo establecido, también se les relaciona con la tecnología y el deporte, los trazos delgados y suaves evocan la fragilidad y delicadeza, así como la sencillez de la elegancia, los gruesos generan la sensación de solidez y mayor peso.
       br
       br
       | El triángulo equilátero con la punta hacia arriba evoca grandeza, ascenso y misticismo, con la punta hacia abajo sugiere depresión y descanso; se asocia con el poder, ciencia, religión y justicia, se le relaciona con la acción a la amenaza, al conflicto, a la tensión, con la masculinidad;
 
     Separador
 
-    #t_1_4.titulo-segundo(style="margin-bottom: 0")
+    #t_1_4.titulo-segundo(style="margin-bottom: 0")(data-aos="fade" data-aos-delay="500")
       h2 1.4  Las formas en el diseño de vestuario
 
   .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom
-    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box
+    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box(data-aos="fade-right" data-aos-delay="500")
       .col-lg-7.mb-5.mb-lg-0
         p.mb-0.px-5 La configuración de cada persona es diferente, depende de su constitución física, edad, género, procedencia, hábitos alimenticios, costumbres, clima, entre otros, que definen su estructura ósea y musculatura; es decir, su forma corporal. Se pueden encontrar personas muy voluminosas o muy delgadas, con extremidades cortas o largas, con mucho o poco volumen en cadera, cintura, torso, vientre, hombros, personas erguidas o enjutos.
       .col-lg-5(style="background-color: white")
         figure
           img(src="@/assets/curso/tema1-imagen28.svg")
-    .row.justify-content-center.align-items-center.mb-5.tarjeta--azul-box
+    .row.justify-content-center.align-items-center.mb-5.tarjeta--azul-box(data-aos="fade-left" data-aos-delay="500")
       .col-lg-5(style="background-color: white")
         figure
           img(src="@/assets/curso/tema1-imagen29.svg")
       .col-lg-7.mb-5.mb-lg-0
         p.mb-0.px-5 Cuando se va a construir el vestuario, lo primero que se debe tener en cuenta es un análisis antropométrico y determinar las características propias de la persona, que van desde los pies hasta la cabeza, teniendo en cuenta que cada individuo es único. Las grandes diferencias se encuentran en: estatura, talle, contorno de hombro, contorno de cintura, contorno de cadera, contorno de muslo, contorno de brazos, perfil de busto, perfil del abdomen y perfil del derriere.
-    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box
+    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box(data-aos="fade-right" data-aos-delay="500")
       .col-lg-7.mb-5.mb-lg-0
         p.mb-0.px-5 Dependiendo de las características físicas, los resultados que se buscan al elaborar el vestuario, se logran a través de efectos de confección y patronaje que adelgacen, ensanchen, equilibren, reduzcan, acentúen, destaquen y simulen o efectos aerodinámicos que favorezcan la apariencia estética de las personas. Además, la utilización de accesorios, complementos, material textil, texturas, procesos, acabados y colores también ayudan a cambiar la apariencia estética, teniendo siempre presente la funcionalidad. 
       .col-lg-5(style="background-color: white")
         figure
           img(src="@/assets/curso/tema1-imagen30.svg")
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade" data-aos-delay="500")
       .col-lg-6
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono

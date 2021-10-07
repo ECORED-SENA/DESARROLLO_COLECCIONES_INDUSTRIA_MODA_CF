@@ -8,21 +8,21 @@
         span 3
       h1 Figurín y ropero
 
-    SlyderC(:datos="datosSlyder")
+    SlyderC(:datos="datosSlyder")(data-aos="fade" data-aos-delay="500")
 
     Separador
 
-    #t_3_1.titulo-segundo
+    #t_3_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 3.1  La ilustración en el mundo de la mod
 
-    p.mb-5 La ilustración en el mundo de la moda, se convierte en la herramienta fundamental utilizada tanto por los grandes diseñadores como por los departamentos de diseño de las marcas de moda. Cada uno desarrolla su propia técnica, bien sea manual o digital, pero siempre teniendo presente que lo más importante es la expresión, el detalle, el manejo de color y la coherencia con el concepto desarrollado, esto permite generar armonía en toda la trazabilidad de la colección.
+    p.mb-5(data-aos="fade-down" data-aos-delay="500") La ilustración en el mundo de la moda, se convierte en la herramienta fundamental utilizada tanto por los grandes diseñadores como por los departamentos de diseño de las marcas de moda. Cada uno desarrolla su propia técnica, bien sea manual o digital, pero siempre teniendo presente que lo más importante es la expresión, el detalle, el manejo de color y la coherencia con el concepto desarrollado, esto permite generar armonía en toda la trazabilidad de la colección.
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-down" data-aos-delay="500")
       img(src="@/assets/curso/tema3-imagen6.jpg")
       figcaption Nota. Figurín digital. https://mymodernmet.com/es/estilos-dibujo/  (2019)
 
     .row.justify-content-center.align-items-center.mb-5.box-rosa-soft.py-5
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right" data-aos-delay="500")
         p.mb-0 Los dibujos deben realizarse con toda precisión y perfección para ser utilizados en la ficha técnica y permitir la interpretación exacta de la idea con sus detalles, los cuales pueden ser tan complejos que requieran ampliarse en dibujos adicionales denominados acercamientos, lupas o zoom.
           br
           br
@@ -30,22 +30,22 @@
           br
           br
           | Lo más importante es que quien realice la ilustración tenga conocimiento de los procesos productivos, entre los que se encuentra: patronaje, maquinaria, materiales y ensamble de prendas; lo anterior debido a que el dibujo es parte integral del diseño de vestuario y esta información le permite al ilustrador interpretar y plasmar los detalles que caracterizan la idea a desarrollar.
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left" data-aos-delay="500")
         figure
           img(src="@/assets/curso/tema3-imagen7.svg")
 
-    p.mb-5 En esencia, el objetivo final de la Ilustración de moda es desarrollar un lenguaje tan único y propio como su firma, creando un estilo con la espontaneidad e imaginación que requiere la moda.
+    p.mb-5(data-aos="fade-down" data-aos-delay="500") En esencia, el objetivo final de la Ilustración de moda es desarrollar un lenguaje tan único y propio como su firma, creando un estilo con la espontaneidad e imaginación que requiere la moda.
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade" data-aos-delay="700")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
 
-    #t_3_2.titulo-segundo
+    #t_3_2.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 3.2  Técnicas de ilustración y expresión de la figura humana
 
-    .bloque-texto-g.inverse.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.inverse.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen8.jpg')})`}"
       )
@@ -56,7 +56,7 @@
           br
           | El figurín es la representación de la figura humana con una idea de indumentaria, poniendo énfasis en el equilibrio total entre el estilo de vestir, el sentido de volumen y otros elementos, que ayudan a mantener unas proporciones y poses coherentes, que se ajustan para expresar distintos ideales y conceptos.
 
-    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen9.jpg')})`}"
       )
@@ -67,7 +67,7 @@
           br
           | En la actualidad y en décadas pasadas, la composición, los materiales y los gestos de los figurines cambian en respuesta a las mismas consideraciones que afectan al diseño de prendas, reflejando las condiciones sociales de una época particular, por ejemplo, la revolución sexual de la década de 1960 suscitó que la ilustración de moda se volviera más atrevida.
 
-    .bloque-texto-g.inverse.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.inverse.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen10.jpg')})`}"
       )
@@ -78,7 +78,7 @@
           br
           | Por lo anterior, el ilustrador debe seleccionar la técnica de acuerdo al textil en el que se elaborará la prenda, por ejemplo, en una transparencia se usa una técnica a base de agua como acuarela, ecoline, de acuerdo a lo que quiera expresar o representar.
     
-    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left" data-aos-delay="500")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3-imagen11.jpg')})`}"
       )
@@ -92,12 +92,12 @@
           br
           | Se clasifican en técnicas secas (lápiz, lápices de colores, lápices conté, pasteles, crayolas), siendo el lápiz la técnica más utilizada, por la facilidad en el manejo, corrección y evolución en el dibujo; técnicas húmedas (marcadores o rotuladores, acuarela, acrílico, ecoline) y otras técnicas no convencionales (el té, el café, el maquillaje); cada marca utiliza estas técnicas dependiendo del segmento o perfil de usuario al que va dirigida.
     
-    .bloque-texto-c.color-acento-contenido.p-4.mb-5
+    .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-down" data-aos-delay="500")
       i.fas.fa-quote-right
       h4.text-regular.mb-2 Utilizada por los diseñadores para plasmar sus ideas sobre el papel, la ilustración de figurines de moda a menudo requiere dibujos rápidos y gestuales que transmiten la esencia de una prenda. Estas ilustraciones suelen presentar figuras largas y alargadas para imitar la altura de las modelos y, como el enfoque está en la ropa –y no en los rostros– los rasgos faciales a menudo son escasos. Dentro de la propia ilustración de moda existen muchos estilos diferentes, algunos más rudimentarios y otros más pulidos.
       .h5.mb-0 (Vargas, 2019)
 
-    .carousel-additional
+    .carousel-additional(data-aos="fade" data-aos-delay="500")
       #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
         .carousel-indicators
           button.active(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide-to='0' aria-current='true' aria-label='Slide 1')
@@ -145,7 +145,7 @@
           span.carousel-control-next-icon(aria-hidden='true')
           span.visually-hidden Next
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade" data-aos-delay="500")
       .col-lg-3
         a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
@@ -155,12 +155,12 @@
 
     Separador
 
-    #t_3_3.titulo-segundo.mb-0
+    #t_3_3.titulo-segundo.mb-0(data-aos="fade" data-aos-delay="500")
       h2 3.3  Estructuras del figurín, principios y técnicas para elaborar figurines
 
   .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom
 
-    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box
+    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box(data-aos="fade-right" data-aos-delay="500")
       .col-lg-7.mb-5.mb-lg-0
         p.mb-0.p-5
           strong Dibujar para la moda: “dibujo de moda”
@@ -173,7 +173,7 @@
       .col-lg-5(style="background-color: white!important")
         figure
           img(src="@/assets/curso/tema3-imagen18.jpg")
-    .row.justify-content-center.align-items-center.mb-5.tarjeta--azul-box
+    .row.justify-content-center.align-items-center.mb-5.tarjeta--azul-box(data-aos="fade-left" data-aos-delay="500")
       .col-lg-5(style="background-color: white")
         figure
           img(src="@/assets/curso/tema3-imagen19.jpg")
@@ -183,7 +183,7 @@
           br
           br
           | El figurín es una herramienta para visualizar los conceptos de diseño, la forma en que se estilice debe servir al propósito de la marca o del creativo de moda, lo importante es la coherencia de la composición de los figurines que reflejen el perfil del usuario.
-    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box
+    .row.justify-content-center.align-items-center.mb-5.tarjeta--rosa-box(data-aos="fade-right" data-aos-delay="500")
       .col-lg-7.mb-5.mb-lg-0
         p.mb-0.p-5
           strong Patrón de medida único
@@ -193,7 +193,7 @@
       .col-lg-5(style="background-color: white")
         figure
           img(src="@/assets/curso/tema3-imagen20.jpg")
-    .row.justify-content-center.align-items-center.mb-5.tarjeta--azul-box
+    .row.justify-content-center.align-items-center.mb-5.tarjeta--azul-box(data-aos="fade-left" data-aos-delay="500")
       .col-lg-5(style="background-color: white")
         figure
           img(src="@/assets/curso/tema3-imagen21.jpg")
@@ -212,7 +212,7 @@
           br
           br
           | El material complementario “Cómo dibujar figurines de moda desde cero” en donde podrá profundizar un poco sobre la construcción de figurines.
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-down" data-aos-delay="500")
       .col-lg-6
         a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
@@ -224,17 +224,17 @@
     
     Separador
 
-    #t_3_4.titulo-segundo
+    #t_3_4.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 3.4  Ropero, desarrollo e interpretación por medio de dibujos planos o geometrale
 
-    .cajon.color-acento-botones.p-4.mb-4
+    .cajon.color-acento-botones.p-4.mb-4(data-aos="fade-down" data-aos-delay="500")
       p La técnica de dibujo plano es la más utilizada por todo tipo de personas que quieren plasmar sus ideas de una forma inmediata; desarrollarla, será el inicio de una creación de vestuario.
 
     .row.justify-content-center.mb-5
-      .col-lg-5.mb-lg-0.mb-5
+      .col-lg-5.mb-lg-0.mb-5(data-aos="fade-right" data-aos-delay="500")
         figure
           img(src="@/assets/curso/tema3-imagen22.jpg")
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left" data-aos-delay="500")
         p.mb-5 El perfeccionamiento de esta técnica es la que se llama “Ropero”, que se caracteriza por tener una línea clara y precisa de cada uno de los detalles que tiene la prenda, siempre teniendo en cuenta el control de las proporciones que se manejan con reglas a escala para mayor exactitud de las medidas; sin embargo, en la mayoría de los casos se realiza a mano alzada y es el dibujante con su experiencia el que logra equilibrar las dimensiones del dibujo.
           br
           br
@@ -253,7 +253,7 @@
 
     .row.justify-content-center
       .col-lg-10
-        .box-rosa-soft.p-5.mb-4
+        .box-rosa-soft.p-5.mb-4(data-aos="fade" data-aos-delay="500")
           p.mb-4.text-center
             strong Fichas técnicas diseño de modas
           .row.justify-content-center
@@ -267,10 +267,10 @@
               figure
                 img(src="@/assets/curso/tema3-imagen25.png")
         .row.justify-content-center
-          .col-lg-6.mb-lg-0.mb-5
+          .col-lg-6.mb-lg-0.mb-5(data-aos="fade-right" data-aos-delay="500")
             figure
               img(src="@/assets/curso/tema3-imagen26.svg")
-          .col-lg-6
+          .col-lg-6(data-aos="fade-left" data-aos-delay="500")
             figure
               img(src="@/assets/curso/tema3-imagen27.svg")
   
