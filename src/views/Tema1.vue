@@ -231,7 +231,7 @@
       strong Analice un poco más a fondo esta temática revisando:
     .row.justify-content-center
       .col-lg-5
-        a.anexo.white.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.white.mb-4(:href="obtenerLink('/downloads/Anexo D_U1Ejercicio_de_reconocimiento_de_la_figura_humana.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen23.svg")
           .anexo__texto

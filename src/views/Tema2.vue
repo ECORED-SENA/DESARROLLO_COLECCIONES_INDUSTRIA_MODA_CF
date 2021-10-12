@@ -84,7 +84,7 @@
 
     .row.justify-content-center
       .col-md-4.mb-md-0.mb-5(data-aos="fade-down" data-aos-delay="500")
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo F_U2 Guia_Uso_de_las_Escuadras-DSR.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema2-imagen7.svg")
           .anexo__texto
@@ -96,7 +96,7 @@
           .anexo__texto
             p <strong>Anexo.</strong> Uso de escuadras como hacer rectas paralelas y perpendiculares
       .col-md-4(data-aos="fade-down" data-aos-delay="500")
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo E _U2uso_escuadras.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
