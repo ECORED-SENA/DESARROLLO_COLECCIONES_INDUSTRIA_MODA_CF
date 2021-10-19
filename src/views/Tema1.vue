@@ -54,7 +54,9 @@
     .row.justify-content-center.mb-5(data-aos="fade-right" data-aos-delay="500")
       .col-lg-9
         .box-soft.color-acento-contenido.p-5
-          LineaTiempoB.color-acento-botones.mb-5(:datos="datosLineaTiempoB")
+          figure
+            img(src="@/assets/curso/tema1-lineatiempo1.svg")
+          //- LineaTiempoB.color-acento-botones.mb-5(:datos="datosLineaTiempoB")
     
     .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-left" data-aos-delay="500")
       i.fas.fa-quote-right
@@ -167,6 +169,20 @@
         button.carousel-control-next(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='next')
           span.carousel-control-next-icon(aria-hidden='true')
           span.visually-hidden Next
+
+    .row.justify-content-center
+      .col-lg-5
+        a.anexo.white.mb-4(href="https://www.linkedin.com/learning/diseno-para-no-disenadores-formato-y-composicion/la-gestalt?u=84303994" target="_blank")
+          .anexo__icono
+            img(src="@/assets/curso/tema1-imagen23.svg")
+          .anexo__texto
+            p <strong>Anexo.</strong> La teoría de la Gestalt.
+      .col-lg-4
+        a.anexo.white.mb-4.mb-lg-0(href="https://www.stampaprint.net/es/blog/acerca-de-la-impresion/la-teoria-la-gestalt" target="_blank")
+          .anexo__icono
+            img(src="@/assets/curso/tema1-imagen24.svg")
+          .anexo__texto
+            p <strong>Anexo.</strong> ¿Qué es la teoría de la Gestalt?.
 
     Separador
     
