@@ -208,25 +208,25 @@
         p.mb-5 Es tarea del <strong class="color-primario">profesional de la moda</strong>, utilizar las herramientas, que le dan múltiples opciones para transformar la forma del cuerpo por medio del vestuario, teniendo siempre presente que los excesos son perjudiciales y es el control (o límite), la clave para:
         ul.lista-ul--color
           li 
-            i.lista-ul__vineta
+            i.fas.fa-check
             | Engrosar o adelgazar.
           li 
-            i.lista-ul__vineta
+            i.fas.fa-check
             | Estirar o recoger.
           li 
-            i.lista-ul__vineta
+            i.fas.fa-check
             | Aparecer o desaparecer.
           li 
-            i.lista-ul__vineta
+            i.fas.fa-check
             | Resaltar u ocultar.
           li 
-            i.lista-ul__vineta
+            i.fas.fa-check
             | Mejorar o empeorar líneas.
           li 
-            i.lista-ul__vineta
+            i.fas.fa-check
             | Moderar o exagerar formas.
           li 
-            i.lista-ul__vineta
+            i.fas.fa-check
             | Controlar o descontrolar.
       .col-lg-5(data-aos="fade-left" data-aos-delay="500")
         figure

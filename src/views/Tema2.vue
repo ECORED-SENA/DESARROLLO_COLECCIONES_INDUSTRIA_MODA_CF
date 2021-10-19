@@ -178,28 +178,29 @@
     #t_2_3.titulo-segundo(data-aos="fade" data-aos-delay="500")
       h2 2.3  Dibujo desde la observación, plano técnico y cotas
 
-    .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down" data-aos-delay="500")
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen9.jpg')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 El dibujo de objetos comienza por la observación, cuando se observa para dibujar se tienen en cuenta detalles, proporciones y la construcción en general de los mismos. Una vez observado se pasa al proceso de bocetos, en el que se hacen anotaciones a tener en cuenta al momento de realizar los planos.
-          br
-          br
-          | El plano técnico es la representación bidimensional (2D) de un objeto, consta de las siguientes vistas: planta, alzado, inferior, perfil derecho, perfil izquierdo y posterior, de las cuales se presentan las que sean requeridas; es decir, si llevan información se tienen en cuenta, de lo contrario se omiten.
+    //- .bloque-texto-g.inverse.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down" data-aos-delay="500")
+    //-   .bloque-texto-g__img(
+    //-     :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen9.jpg')})`}"
+    //-   )
+    //-   .bloque-texto-g__texto.p-4
+    //-     p.mb-0 El dibujo de objetos comienza por la observación, cuando se observa para dibujar se tienen en cuenta detalles, proporciones y la construcción en general de los mismos. Una vez observado se pasa al proceso de bocetos, en el que se hacen anotaciones a tener en cuenta al momento de realizar los planos.
+    //-       br
+    //-       br
+    //-       | El plano técnico es la representación bidimensional (2D) de un objeto, consta de las siguientes vistas: planta, alzado, inferior, perfil derecho, perfil izquierdo y posterior, de las cuales se presentan las que sean requeridas; es decir, si llevan información se tienen en cuenta, de lo contrario se omiten.
 
-    p.mb-5(data-aos="fade-down" data-aos-delay="500") Adicional a las vistas, se presentan los cortes, en los cuales se muestran partes internas o detalles de los productos.
-      br
-      br
-      | El proceso de acotado o marcación de las cotas es fundamental en el dibujo técnico, pues es con estas que se determinan medidas, diámetros, espesores, ángulos y proporciones. Un correcto acotado tiene el número preciso de las medidas, ni más, ni menos de las necesarias.
-      br
-      br
-      | Adaptado de Arturo Geometría (2019); Biguri (s.f.); Etiduela (s.f.); Raya & Dibujar Bien. (2013).
+    //- p.mb-5(data-aos="fade-down" data-aos-delay="500") Adicional a las vistas, se presentan los cortes, en los cuales se muestran partes internas o detalles de los productos.
+    //-   br
+    //-   br
+    //-   | El proceso de acotado o marcación de las cotas es fundamental en el dibujo técnico, pues es con estas que se determinan medidas, diámetros, espesores, ángulos y proporciones. Un correcto acotado tiene el número preciso de las medidas, ni más, ni menos de las necesarias.
+    //-   br
+    //-   br
+    //-   | Adaptado de Arturo Geometría (2019); Biguri (s.f.); Etiduela (s.f.); Raya & Dibujar Bien. (2013).
     
     .row.justify-content-center(data-aos="fade-down" data-aos-delay="500")
       .col-11
         figure
-          img(src="@/assets/curso/tema2-imagen10.svg")
+          img(src="@/assets/curso/tema2-imagen10.svg").mb-2
+          figcaption Adaptado de Arturo Geometría (2019); Biguri (s.f.); Etiduela (s.f.); Raya & Dibujar Bien. (2013).
 
   .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom
     .row.justify-content-center.align-items-center
