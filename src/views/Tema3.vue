@@ -36,9 +36,10 @@
 
     p.mb-5(data-aos="fade-down" data-aos-delay="500") En esencia, el objetivo final de la Ilustración de moda es desarrollar un lenguaje tan único y propio como su firma, creando un estilo con la espontaneidad e imaginación que requiere la moda.
     
+
     figure.mb-5(data-aos="fade" data-aos-delay="700")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/x48fy2M9On0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
 
@@ -147,11 +148,11 @@
 
     .row.justify-content-center(data-aos="fade" data-aos-delay="500")
       .col-lg-3
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://cynthiasmith.com.ar/amano/" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
-            p <strong>Video.</strong> Ilustración a mano.
+            p Ilustración a mano.
 
     Separador
 
@@ -214,7 +215,7 @@
           | El material complementario “Cómo dibujar figurines de moda desde cero” en donde podrá profundizar un poco sobre la construcción de figurines.
     .row.justify-content-center(data-aos="fade-down" data-aos-delay="500")
       .col-lg-6
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/t5A6FTWU8Kc" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto

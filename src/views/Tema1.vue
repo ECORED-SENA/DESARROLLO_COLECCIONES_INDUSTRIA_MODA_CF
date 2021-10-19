@@ -237,7 +237,7 @@
           .anexo__texto
             p <strong>Anexo.</strong> Ejercicio de reconocimiento de la figura humana.
       .col-lg-4
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/JWKhsr9pqsc" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
@@ -294,7 +294,7 @@
           img(src="@/assets/curso/tema1-imagen30.svg")
     .row.justify-content-center(data-aos="fade" data-aos-delay="500")
       .col-lg-6
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=9t_CihSARHE" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto

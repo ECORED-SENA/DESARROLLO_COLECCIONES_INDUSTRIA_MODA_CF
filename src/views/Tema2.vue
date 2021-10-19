@@ -43,7 +43,7 @@
             figure.mb-5
               img(src="@/assets/curso/tema2-imagen3.jpg")
           .col-md-4
-            a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/gCTalQvVmeA" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/tema1-imagen24.svg")
               .anexo__texto
@@ -54,7 +54,7 @@
             figure.mb-5
               img(src="@/assets/curso/tema2-imagen4.jpg")
           .col-md-4
-            a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/GcaRZAsjIa4" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/tema1-imagen24.svg")
               .anexo__texto
@@ -65,7 +65,7 @@
             figure.mb-5
               img(src="@/assets/curso/tema2-imagen5.jpg")
           .col-md-4
-            a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/Kwb7U5sC9dI" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/tema1-imagen24.svg")
               .anexo__texto
@@ -76,7 +76,7 @@
             figure.mb-5
               img(src="@/assets/curso/tema2-imagen6.jpg")
           .col-md-4
-            a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/okjnJuAzG84" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/tema1-imagen24.svg")
               .anexo__texto
@@ -126,19 +126,19 @@
   .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom(data-aos="fade" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-md-4.mb-md-0.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/Qp_OPq1FQwk" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Letra normalizada - con audio.
       .col-md-4.mb-md-0.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/2dzfmbITR7o" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Escalas - dibujo técnico.
       .col-md-4
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/Cihw88CFEr4" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
@@ -146,25 +146,25 @@
   .container.tarjeta.tarjeta--azul.p-4.p-md-5.no-borders.top.bottom(data-aos="fade" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-md-3.mb-md-0.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://www.significados.com/linea/" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong> Significado de la línea.
       .col-md-3.mb-md-0.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://dibujotecnico.com/lineas-normalizadas/" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong> Líneas normalizadas.
       .col-md-3
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://www.mvblog.cl/apuntes/dibujo/dibujo-tecnico-tipos-de-linea-y-usos/" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong> Dibujo técnico: tipos de líneas, grosores y usos.
       .col-md-3
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://www.youtube.com/c/ArturoGeometria/videos?view=0&sort=da&flow=grid" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
@@ -203,31 +203,31 @@
   .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom
     .row.justify-content-center.align-items-center
       .col-md-4.mb-5(data-aos="fade-right" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/8wm4YXIvGO0" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Cómo dibujar bien: secretos de las proporciones y medidas.
       .col-md-4.mb-5(data-aos="fade-down" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/R6olMYk8KYg" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Técnicas para aprender a dibujar - el trazo y ejercicios para calentar.
       .col-md-4.mb-5(data-aos="fade-left" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/cPNB1f1Cxhc" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Manejo de compás.
       .col-md-4.mb-md-0.mb-5(data-aos="fade-right" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/FYNESsXntAw" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Curso de Geometrales y Fichas Técnicas.
       .col-md-4(data-aos="fade-left" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/v1vjHB60c8Q" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
@@ -236,13 +236,13 @@
   .container.tarjeta.tarjeta--azul.p-4.p-md-5.no-borders.top.bottom
     .row.justify-content-center.align-items-center
       .col-md-3.mb-md-0.mb-5(data-aos="fade-right" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://ibiguridt.wordpress.com/temas/vistas/#vistas" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong> Vista de piezas.
       .col-md-3.mb-md-0.mb-5(data-aos="fade-down" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://www.pinterest.es/pin/312366924129653797/?nic_v1=1aHzF6Qj7kxamPeUpupd8Ep8UM3Dv%2BquUKwn96BEBBExyc2kMhRYATeRbiK7aHT2Wk" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
@@ -281,7 +281,7 @@
         
         .row.mt-5.justify-content-center
           .col-lg-6
-            a.anexo.white.mb-4.mt-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.white.mb-4.mt-4.mb-lg-0(href="https://youtu.be/NummIe4XG2U" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/tema1-imagen24.svg")
               .anexo__texto
@@ -290,31 +290,31 @@
   .container.tarjeta.tarjeta--rosa.p-4.p-md-5.no-borders.top.bottom(data-aos="fade-down" data-aos-delay="500")
     .row.justify-content-center.align-items-center
       .col-md-4.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/CYK5rZE6hW4" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Traslación de figuras geométricas.
       .col-md-4.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/NummIe4XG2U" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Giro de una figura (Transformaciones geométricas: Igualdad).
       .col-md-4.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/un6QINDDsjs" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Como dibujar una perspectiva a dos puntos de fuga.
       .col-md-4.mb-md-0.mb-5
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/wQeEt2RFfK0" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Video.</strong> Dibujar una figura en perspectiva isométrica con curva.
       .col-md-4
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(href="https://youtu.be/IREoh0PkgTw" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
