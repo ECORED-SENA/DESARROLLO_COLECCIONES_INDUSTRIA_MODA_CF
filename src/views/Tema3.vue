@@ -13,9 +13,9 @@
     Separador
 
     #t_3_1.titulo-segundo(data-aos="fade" data-aos-delay="500")
-      h2 3.1  La ilustración en el mundo de la mod
+      h2 3.1  La ilustración en el mundo de la moda
 
-    p.mb-5(data-aos="fade-down" data-aos-delay="500") La ilustración en el mundo de la moda, se convierte en la herramienta fundamental utilizada tanto por los grandes diseñadores como por los departamentos de diseño de las marcas de moda. Cada uno desarrolla su propia técnica, bien sea manual o digital, pero siempre teniendo presente que lo más importante es la expresión, el detalle, el manejo de color y la coherencia con el concepto desarrollado, esto permite generar armonía en toda la trazabilidad de la colección.
+    p.mb-5(data-aos="fade-down" data-aos-delay="500") <strong class="color-primario">La ilustración en el mundo de la moda</strong>, se convierte en la herramienta fundamental utilizada tanto por los grandes diseñadores como por los departamentos de diseño de las marcas de moda. <strong class="color-primario">Cada uno desarrolla su propia técnica</strong>, bien sea manual o digital, pero siempre teniendo presente que lo más importante es la expresión, el detalle, el manejo de color y la coherencia con el concepto desarrollado, esto permite generar armonía en toda la trazabilidad de la colección.
 
     figure.mb-5(data-aos="fade-down" data-aos-delay="500")
       img(src="@/assets/curso/tema3-imagen6.jpg")
@@ -23,18 +23,22 @@
 
     .row.justify-content-center.align-items-center.mb-5.box-rosa-soft.py-5
       .col-lg-7(data-aos="fade-right" data-aos-delay="500")
-        p.mb-0 Los dibujos deben realizarse con toda precisión y perfección para ser utilizados en la ficha técnica y permitir la interpretación exacta de la idea con sus detalles, los cuales pueden ser tan complejos que requieran ampliarse en dibujos adicionales denominados acercamientos, lupas o zoom.
+        p.mb-0 Los dibujos deben realizarse con toda <strong class="color-primario">precisión y perfección</strong> para ser utilizados en la ficha técnica y permitir la interpretación exacta de la idea con sus detalles, los cuales pueden ser tan complejos que requieran ampliarse en dibujos adicionales denominados acercamientos, lupas o zoom.
           br
           br
-          | El propósito de la ilustración en el mundo de la moda es comunicar las ideas del creativo con respecto a la inspiración de la colección, servir de fuente de información técnica para el desarrollo y despiece de los patrones, informar de las características técnicas, selección de maquinaria, proceso productivo; interpretado inicialmente desde el dibujo plano, de tal forma que sea atractivo y deseable, con proyección hacia el mercado objetivo.
+          strong.color-primario El propósito de la ilustración en el mundo de la moda es comunicar las ideas del creativo con respecto a la inspiración de la colección, 
+          | servir de fuente de información técnica para el desarrollo y despiece de los patrones, informar de las características técnicas, selección de maquinaria, proceso productivo; interpretado inicialmente desde el dibujo plano, de tal forma que sea atractivo y deseable, con proyección hacia el mercado objetivo.
           br
           br
-          | Lo más importante es que quien realice la ilustración tenga conocimiento de los procesos productivos, entre los que se encuentra: patronaje, maquinaria, materiales y ensamble de prendas; lo anterior debido a que el dibujo es parte integral del diseño de vestuario y esta información le permite al ilustrador interpretar y plasmar los detalles que caracterizan la idea a desarrollar.
+          | Lo más <strong class="color-primario">importante</strong> es que quien realice la ilustración tenga conocimiento <strong class="color-primario">de los procesos productivos</strong>, entre los que se encuentra: patronaje, maquinaria, materiales y ensamble de prendas; lo anterior debido a que el dibujo es parte integral del diseño de vestuario y esta información le permite al ilustrador interpretar y plasmar los detalles que caracterizan la idea a desarrollar.
       .col-lg-4(data-aos="fade-left" data-aos-delay="500")
         figure
           img(src="@/assets/curso/tema3-imagen7.svg")
 
-    p.mb-5(data-aos="fade-down" data-aos-delay="500") En esencia, el objetivo final de la Ilustración de moda es desarrollar un lenguaje tan único y propio como su firma, creando un estilo con la espontaneidad e imaginación que requiere la moda.
+    p.mb-5(data-aos="fade-down" data-aos-delay="500") En esencia, el <strong class="color-primario">objetivo</strong> final de la Ilustración de moda es <strong class="color-primario">desarrollar un lenguaje</strong> tan <strong class="color-primario">único y propio como su firma</strong>, creando un estilo con la espontaneidad e imaginación que requiere la moda.
+      br
+      br
+      | En el siguiente video se podrá apreciar un proceso de ilustración.
     
 
     figure.mb-5(data-aos="fade" data-aos-delay="700")
@@ -55,7 +59,7 @@
           strong ¿Qué es el figurín?
           br
           br
-          | El figurín es la representación de la figura humana con una idea de indumentaria, poniendo énfasis en el equilibrio total entre el estilo de vestir, el sentido de volumen y otros elementos, que ayudan a mantener unas proporciones y poses coherentes, que se ajustan para expresar distintos ideales y conceptos.
+          | El figurín es la <strong class="color-primario">representación de la figura humana</strong> con una <strong class="color-primario">idea de indumentaria</strong>, poniendo énfasis en el equilibrio total entre el estilo de vestir, el sentido de volumen y otros elementos, que ayudan a mantener unas proporciones y poses coherentes, que se ajustan para expresar distintos ideales y conceptos.
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left" data-aos-delay="500")
       .bloque-texto-g__img(
@@ -66,7 +70,7 @@
           strong Y en la actualidad…
           br
           br
-          | En la actualidad y en décadas pasadas, la composición, los materiales y los gestos de los figurines cambian en respuesta a las mismas consideraciones que afectan al diseño de prendas, reflejando las condiciones sociales de una época particular, por ejemplo, la revolución sexual de la década de 1960 suscitó que la ilustración de moda se volviera más atrevida.
+          | En la actualidad y en décadas pasadas, la composición, los materiales y los gestos de los <strong class="color-primario">figurines</strong> cambian en respuesta a las mismas consideraciones que afectan al diseño de prendas, reflejando las condiciones sociales de una época particular, por ejemplo, <strong class="color-primario">la revolución sexual de la década de 1960</strong> suscitó que la ilustración de moda se volviera <strong class="color-primario">más atrevida</strong>.
 
     .bloque-texto-g.inverse.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right" data-aos-delay="500")
       .bloque-texto-g__img(
@@ -77,7 +81,7 @@
           strong El rol del ilustrador
           br
           br
-          | Por lo anterior, el ilustrador debe seleccionar la técnica de acuerdo al textil en el que se elaborará la prenda, por ejemplo, en una transparencia se usa una técnica a base de agua como acuarela, ecoline, de acuerdo a lo que quiera expresar o representar.
+          | Por lo anterior, el ilustrador debe <strong class="color-primario">seleccionar la técnica</strong> de acuerdo al textil en el que se elaborará la prenda, por ejemplo, en una transparencia se usa una técnica a base de agua como acuarela, ecoline, de acuerdo a lo que quiera expresar o representar.
     
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left" data-aos-delay="500")
       .bloque-texto-g__img(
@@ -88,10 +92,10 @@
           strong Las técnicas de ilustración
           br
           br
-          | Las técnicas de ilustración están relacionadas con la expresión, pose, sentimiento y actitud reflejados en el figurín: rigidez, suavidad, delicadeza, movimiento en la figura humana.
+          | Las <strong class="color-primario">técnicas de ilustración</strong> están relacionadas con la expresión, pose, sentimiento y actitud reflejados en el figurín: rigidez, suavidad, delicadeza, movimiento en la figura humana.
           br
           br
-          | Se clasifican en técnicas secas (lápiz, lápices de colores, lápices conté, pasteles, crayolas), siendo el lápiz la técnica más utilizada, por la facilidad en el manejo, corrección y evolución en el dibujo; técnicas húmedas (marcadores o rotuladores, acuarela, acrílico, ecoline) y otras técnicas no convencionales (el té, el café, el maquillaje); cada marca utiliza estas técnicas dependiendo del segmento o perfil de usuario al que va dirigida.
+          | Se clasifican en <strong class="color-primario">técnicas secas</strong> (lápiz, lápices de colores, lápices conté, pasteles, crayolas), siendo el lápiz la técnica más utilizada, por la facilidad en el manejo, corrección y evolución en el dibujo; <strong class="color-primario">técnicas húmedas</strong> (marcadores o rotuladores, acuarela, acrílico, ecoline) y <strong class="color-primario">otras técnicas</strong> no convencionales (el té, el café, el maquillaje); cada marca utiliza estas técnicas <strong class="color-primario">dependiendo del segmento o perfil de usuario</strong> al que va dirigida.
     
     .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-down" data-aos-delay="500")
       i.fas.fa-quote-right
@@ -167,7 +171,7 @@
           strong Dibujar para la moda: “dibujo de moda”
           br
           br
-          | Los antiguos griegos consideraban que la belleza era una cuestión de proporciones perfectas. Según esta concepción, el dibujo de la figura clásica utilizaba la cabeza, -vista en relación con el cuerpo como un todo- como una unidad de medida para determinar puntos de referencia y amplitudes para las diferentes partes del cuerpo. “A diferencia del Arte, el dibujo de moda requiere una evaluación menos objetiva de la realidad. El figurín de moda, o croquis, es infinitamente maleable, ideal para visualizar estándares de belleza que a menudo son inalcanzables.”
+          | Los antiguos griegos consideraban que la belleza era una cuestión de proporciones perfectas. Según esta concepción, el dibujo de la figura clásica utilizaba la cabeza, -vista en relación con el cuerpo como un todo- como una unidad de medida para determinar puntos de referencia y amplitudes para las diferentes partes del cuerpo. “A diferencia del Arte, el dibujo de moda requiere una evaluación menos objetiva de la realidad. El figurín de moda, o <strong class="color-primario">croquis</strong>, es infinitamente maleable, ideal para visualizar estándares de belleza que a menudo son inalcanzables.”
           br
           br
           | (Wesen, 2012, p.33)
@@ -188,9 +192,9 @@
       .col-lg-7.mb-5.mb-lg-0
         p.mb-0.p-5
           strong Patrón de medida único
-            br
-            br
-            | La cabeza, es el patrón de medida elegido para la ilustración de la moda, porque es la parte del cuerpo humano que menos transformaciones tiene durante el crecimiento, por esta razón se elige como canon de medida. Siendo la medida normal en proporciones siete cabezas y media, la ideal ocho cabezas y media para iniciar la ilustración de un figurín, nueve, diez, once y doce cabezas una estilización de la figura y decisión personal. La clave está en experimentar y luego escoger las proporciones que más convengan.
+          br
+          br
+          | La cabeza, es el patrón de medida elegido para la ilustración de la moda, porque es la parte del cuerpo humano que menos transformaciones tiene durante el crecimiento, por esta razón se elige como canon de medida. Siendo la medida normal en proporciones siete cabezas y media, la ideal ocho cabezas y media para iniciar la ilustración de un figurín, nueve, diez, once y doce cabezas una estilización de la figura y decisión personal. La clave está en experimentar y luego escoger las proporciones que más convengan.
       .col-lg-5(style="background-color: white")
         figure
           img(src="@/assets/curso/tema3-imagen20.jpg")
@@ -226,7 +230,7 @@
     Separador
 
     #t_3_4.titulo-segundo(data-aos="fade" data-aos-delay="500")
-      h2 3.4  Ropero, desarrollo e interpretación por medio de dibujos planos o geometrale
+      h2 3.4  Ropero, desarrollo e interpretación por medio de dibujos planos o geometrales
 
     .cajon.color-acento-botones.p-4.mb-4(data-aos="fade-down" data-aos-delay="500")
       p La técnica de dibujo plano es la más utilizada por todo tipo de personas que quieren plasmar sus ideas de una forma inmediata; desarrollarla, será el inicio de una creación de vestuario.

@@ -54,7 +54,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.5',
-            titulo: 'Las formas en el diseño de vestuario',
+            titulo: 'Exploración de la forma',
             hash: 't_1_5',
           },
         ],
@@ -122,7 +122,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '3.4',
             titulo:
-              'Ropero, desarrollo e interpretación por medio de dibujos planos o geometrale',
+              'Ropero, desarrollo e interpretación por medio de dibujos planos o geometrales',
             hash: 't_3_4',
           },
         ],
@@ -499,14 +499,14 @@ export default {
         'Conjunto de características o circunstancias con que una persona o una cosa se aparece o se presenta a la vista o al entendimiento.',
     },
     {
-      termino: 'Boceto',
+      termino: 'Acotar',
       significado:
-        'Dibujos más o menos detallados que plasmen formas concebidas por la imaginación del artista.',
+        'Def. 1. Delimitar el ámbito o espacio de algo (Real Academia Española, s.f.). Def. 2. Poner cotas o números en un plano (Farlex, s.f.).',
     },
     {
       termino: 'Boceto',
       significado:
-        'Proyecto o apunte general previo a la ejecución de una obra artística. Esquema o proyecto en que se bosqueja cualquier obra (adaptado de Real Academia Española, s.f.).',
+        'Dibujos más o menos detallados que plasmen formas concebidas por la imaginación del artista.<br>Proyecto o apunte general previo a la ejecución de una obra artística. Esquema o proyecto en que se bosqueja cualquier obra (adaptado de Real Academia Española, s.f.).',
     },
     {
       termino: 'Canon',
@@ -844,7 +844,48 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Marisol Osorio',
+        cargo: 'Líder Sennova',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'María Luisa Yepes',
+        cargo: 'Instructora',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Fabio Andrés Gaviria',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Alcizar Manuel Ospina Agudelo',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Evaluador Instruccional',
+        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -852,36 +893,30 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Eulises Orduz',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'María Camila Ovalle Ospina ',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

@@ -90,13 +90,13 @@
           .anexo__texto
             p <strong>Anexo.</strong> Dibujo y sistemas de representación. Uso de las escuadras
       .col-md-4.mb-md-0.mb-5(data-aos="fade-up" data-aos-delay="500")
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo E _U2uso_escuadras.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema2-imagen7.svg")
           .anexo__texto
             p <strong>Anexo.</strong> Uso de escuadras como hacer rectas paralelas y perpendiculares
       .col-md-4(data-aos="fade-down" data-aos-delay="500")
-        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Anexo E _U2uso_escuadras.pdf')" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/user/profesoraltuna/videos" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
@@ -107,7 +107,7 @@
     #t_2_2.titulo-segundo
       h2 2.2  Líneas rectas, lenguaje de líneas y escalas
 
-    p.mb-0(data-aos="fade" data-aos-delay="500") En el dibujo técnico se emplean diferentes tipos de líneas para describir las figuras de los objetos a realizar. Las más conocidas son:
+    p.mb-0(data-aos="fade" data-aos-delay="500") En el dibujo técnico se emplean diferentes tipos de líneas para describir las <strong class="color-primario">figuras de los objetos</strong> a realizar. Las más conocidas son:
 
 
   .container.tarjeta.tarjeta--fucsia.p-4.p-md-5.no-borders.top.bottom(data-aos="fade" data-aos-delay="500")
@@ -116,10 +116,11 @@
         figure
           img(src="@/assets/curso/tema2-imagen8.svg")
       .col-lg-7
-        p.mb-0.text-white.px-5 En el dibujo técnico se emplean varios tipos de líneas, a lo que se le denomina lenguaje o valor de líneas, estas han sido normalizadas o estandarizadas con el fin de que su interpretación sea la misma en cualquier lugar del mundo. Para la rotulación de los planos se emplea la letra técnica, que al igual que las líneas se encuentra normalizada.
+        p.mb-0.text-white.px-5 En el dibujo técnico se emplean varios tipos de líneas, a lo que se le denomina lenguaje o valor de líneas, estas han sido normalizadas o estandarizadas con el fin de que su interpretación sea la misma en cualquier lugar del mundo. Para la rotulación de los planos se emplea <strong class="color-primario">la letra técnica</strong>, que al igual que las líneas se encuentra <strong class="color-primario">normalizada</strong>.
           br
           br
-          | La escala es la relación de tamaño entre el objeto real y el dibujo que lo está representando, ya que, si se va a dibujar una casa, un auto o una prenda de vestir, no se podrá dibujar a tamaño real (lo que se denomina escala 1:1) sino que deberá hacerse a una escala menor y así poder trazarlo en una pieza de papel.
+          strong.color-primario La escala es la relación de tamaño entre el objeto real y el dibujo que lo está representando, 
+          | ya que, si se va a dibujar una casa, un auto o una prenda de vestir, no se podrá dibujar a tamaño real (lo que se denomina escala 1:1) sino que deberá hacerse a una escala menor y así poder trazarlo en una pieza de papel.
           br
           br
           | (González, 2017; Pérez, 1998; SENA et al., 1984; Significados, s.f.).
@@ -248,13 +249,13 @@
           .anexo__texto
             p <strong>Enlace.</strong>  Imágenes en Pinterest - dimensión cota.
       .col-md-3(data-aos="fade-up" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(:href="obtenerLink('/downloads/GEOMETRALES.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
             p <strong>Enlace.</strong> Geometrales.
       .col-md-3(data-aos="fade-left" data-aos-delay="500")
-        a.anexo.white.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.white.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Acotacion.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen24.svg")
           .anexo__texto
@@ -271,10 +272,13 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2-imagen11.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p En el dibujo técnico se recurre a la transformación geométrica de las formas, como son la traslación, rotación, simetría, entre otras, para el desarrollo de los planos y de las proyecciones tridimensionales de las piezas.
+        p En el dibujo técnico se recurre a la <strong class="color-primario">transformación geométrica de las formas</strong>, como son la traslación, rotación, simetría, entre otras, para el desarrollo de los planos y de las proyecciones tridimensionales de las piezas.
           br
           br
-          | La proyección gráfica de un objeto en tres dimensiones se denomina isometría y, según el sistema normalizado en el que se trabaje, se realizan bajo proyecciones a diferentes ángulos y con relación a diferentes vistas.
+          strong.color-primario La proyección gráfica de un objeto en tres dimensiones 
+          | se denomina 
+          strong.color-primario isometría 
+          | y, según el sistema normalizado en el que se trabaje, se realizan bajo proyecciones a diferentes ángulos y con relación a diferentes vistas.
           br
           br
           | (Biguri (s.f.); Castellanos (2009); Dibujo Técnico paso a paso (2019); Mulet (2014).
