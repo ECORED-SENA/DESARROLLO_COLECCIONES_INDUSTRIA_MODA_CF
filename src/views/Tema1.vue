@@ -280,7 +280,7 @@
       br
       br
       strong.color-primario El triángulo equilátero 
-      | con la punta hacia arriba evoca grandeza, ascenso y misticismo, con la punta hacia abajo sugiere depresión y descanso; se asocia con el poder, ciencia, religión y justicia, se le relaciona con la acción a la amenaza, al conflicto, a la tensión, con la masculinidad;
+      | con la punta hacia arriba evoca grandeza, ascenso y misticismo, con la punta hacia abajo sugiere depresión y descanso; se asocia con el poder, ciencia, religión y justicia, se le relaciona con la acción a la amenaza, al conflicto, a la tensión, con la masculinidad.
 
     Separador
 

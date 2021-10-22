@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'La forma y sus significados, la psicología de la Gestal',
+            titulo: 'La forma y sus significados, la psicología de la Gestalt',
             hash: 't_1_1',
           },
           {
