@@ -98,9 +98,10 @@
           | Se clasifican en <strong class="color-primario">técnicas secas</strong> (lápiz, lápices de colores, lápices conté, pasteles, crayolas), siendo el lápiz la técnica más utilizada, por la facilidad en el manejo, corrección y evolución en el dibujo; <strong class="color-primario">técnicas húmedas</strong> (marcadores o rotuladores, acuarela, acrílico, ecoline) y <strong class="color-primario">otras técnicas</strong> no convencionales (el té, el café, el maquillaje); cada marca utiliza estas técnicas <strong class="color-primario">dependiendo del segmento o perfil de usuario</strong> al que va dirigida.
     
     .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-down" data-aos-delay="500")
-      i.fas.fa-quote-right
+      i.fas.fa-quote-left
       h4.text-regular.mb-2 Utilizada por los diseñadores para plasmar sus ideas sobre el papel, la ilustración de figurines de moda a menudo requiere dibujos rápidos y gestuales que transmiten la esencia de una prenda. Estas ilustraciones suelen presentar figuras largas y alargadas para imitar la altura de las modelos y, como el enfoque está en la ropa –y no en los rostros– los rasgos faciales a menudo son escasos. Dentro de la propia ilustración de moda existen muchos estilos diferentes, algunos más rudimentarios y otros más pulidos.
       .h5.mb-0 (Vargas, 2019)
+        i.fas.fa-quote-right.ps-5
 
     .carousel-additional(data-aos="fade" data-aos-delay="500")
       #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel')
@@ -302,7 +303,7 @@ export default {
       {
         titulo: '',
         texto:
-          'La ilustración de moda es una tarea que se encomienda a dibujantes especializados que tienen como función la expresión bidimensional de prendas de vestir en forma detallada. El dibujo en plano consiste en un boceto que representa la parte frontal, el perfil y la parte posterior, destacando el corte, la línea y los detalles de la prenda, forros y acabad os. Este tipo de representación (ropero) es de gran utilidad para el patronista, que debe interpretar y recrear con la máxima fidelidad la idea creada por el diseñador. El dibujo en plano es una especie de enlace entre el boceto y la prenda acabada y en ocasiones los creativos prefieren este tipo de dibujo al figurín. ',
+          'La ilustración de moda es una tarea que se encomienda a dibujantes especializados que tienen como función la expresión bidimensional de prendas de vestir en forma detallada. El dibujo en plano consiste en un boceto que representa la parte frontal, el perfil y la parte posterior, destacando el corte, la línea y los detalles de la prenda, forros y acabados. Este tipo de representación (ropero) es de gran utilidad para el patronista, que debe interpretar y recrear con la máxima fidelidad la idea creada por el diseñador. El dibujo en plano es una especie de enlace entre el boceto y la prenda acabada y en ocasiones los creativos prefieren este tipo de dibujo al figurín. ',
         imagen: require('@/assets/curso/tema3-imagen3.jpg'),
       },
       {

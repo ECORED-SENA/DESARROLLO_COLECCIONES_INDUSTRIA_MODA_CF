@@ -30,9 +30,10 @@
             .h6.mb-0 (Alcoceba, 2015, p. 19 y 20)
 
     .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-down" data-aos-delay="500")
-      i.fas.fa-quote-right
+      i.fas.fa-quote-left
       h4.text-regular.mb-2 Además de proteger el cuerpo ante las inclemencias climáticas y de las hostilidades del ambiente que nos rodea, el vestido nos distingue. Se presenta como símbolo de pertenencia a cierto grupo étnico o a cierto estatus social. Paradójicamente, el vestido nos individualiza a la vez que nos hace desaparecer frente a nuestros semejantes.
       .h5.mb-0 (Avilés, 2016, p. 3)
+        i.fas.fa-quote-right.ps-5
 
     p.mb-5(data-aos="fade-down" data-aos-delay="500") En el mundo visual <strong class="color-primario">la forma es percibida e interpretada por los sentidos,</strong> todo se estructura alrededor de como sean percibidas las sensaciones. El objetivo fundamental de esta temática es generar una invitación a <strong class="color-primario">explorar nuevas maneras de interpretar</strong> y llevar a un estado visual las sensaciones generadas en el cerebro como producto de los estímulos externos, teorizar y recoger conceptos acerca de las formas y plantear el concepto de “Forma” a partir del entorno natural, abstracto e imaginario de acuerdo a las experiencias previas del individuo.
       br
@@ -59,7 +60,7 @@
           //- LineaTiempoB.color-acento-botones.mb-5(:datos="datosLineaTiempoB")
     
     .bloque-texto-c.color-acento-contenido.p-4.mb-5(data-aos="fade-left" data-aos-delay="500")
-      i.fas.fa-quote-right
+      i.fas.fa-quote-left
       h4.text-regular.mb-2 (…) el todo es siempre más que la suma de sus partes”. Esta frase revela exactamente los principios de la teoría de esta corriente: es decir, descubrir por qué el cerebro humano tiende a interpretar un conjunto de elementos diferentes como un único mensaje, y cómo nuestra mente agrupa las informaciones que recibimos en categorías mentales que nosotros mismos hemos establecido. En el ámbito de las artes gráficas, este estudio de la percepción es fundamental a la hora de analizar cómo el ojo humano lee un determinado esquema, cómo distingue las formas y los elementos que lo componen y la unidad del mensaje y del significado.
       .h5.mb-0 (Lorella, 2016)
 
@@ -127,7 +128,7 @@
                 .titulo-sexto.color-acento-contenido
                   h5 Figura 6
                   br
-                  span Máscara inspirada en los siete días de la semana, elaborada por Aprendiz. Programa Diseño para la Industria de la Moda. SENA (2012)
+                  span Creaciones inspiradas en los siete días de la creación y el mundo submarino, elaboradas por Aprendices. Programa Diseño para la industria de la Moda SENA (2012).
                 figure
                   img(src='@/assets/curso/tema1-imagen16.jpg')
           .carousel-item
@@ -244,7 +245,7 @@
       strong Analice un poco más a fondo esta temática revisando:
     .row.justify-content-center
       .col-lg-5
-        a.anexo.white.mb-4(:href="obtenerLink('/downloads/Anexo D_U1Ejercicio_de_reconocimiento_de_la_figura_humana.pdf')" target="_blank")
+        a.anexo.white.mb-4(:href="obtenerLink('/downloads/Anexo_D_U1Ejercicio_de_reconocimiento_de_la_figura_humana.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/curso/tema1-imagen23.svg")
           .anexo__texto

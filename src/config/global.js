@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Fundamentos del vestuario III',
     descripcionCurso:
-      'El componente formativo 3 cierra el ciclo de información específica sobre fundamentos del vestuario. En este se abordarán tres unidades que permitirán la adquisición de bases teóricas y conceptuales de utilidad para un desempeño óptimo del desarrollador de colecciones en el entorno productivo; es así como las unidades: teoría de la forma, diseño y planos y, figurín y ropero se presentan para agregarse a los conocimientos ya adquiridos.',
+      'El componente formativo 3 cierra el ciclo de información específica sobre fundamentos del vestuario. En este se abordarán tres unidades que permitirán la adquisición de bases teóricas y conceptuales de utilidad para un desempeño óptimo del desarrollador de colecciones en el entorno productivo; es así como las unidades: teoría de la forma, diseño y planos técnicos, figurín y ropero se presentan para agregarse a los conocimientos ya adquiridos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -102,7 +102,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'La ilustración en el mundo de la mod',
+            titulo: 'La ilustración en el mundo de la moda',
             hash: 't_3_1',
           },
           {
@@ -254,7 +254,7 @@ export default {
     },
     {
       referencia:
-        'Definicion.de. (s.f.). Definicion.de. Definicion.De. Retrieved July 6, 2020',
+        'Definición.de. (s.f.). Definición.de. Definición.De. Retrieved July 6, 2020',
       link: 'https://definicion.de/sastre/',
     },
     {
@@ -519,14 +519,14 @@ export default {
         'Regla en forma de triángulo escaleno con ángulos de 90°, 60° y 30° (Papelería Distrimar, 2020).',
     },
     {
-      termino: 'Circulo',
+      termino: 'Círculo',
       significado:
         'Circunferencia, curva cerrada cuyos puntos equidistan del centro.',
     },
     {
       termino: 'Compás',
       significado:
-        'Es un instrumento que cuenta con un par de brazos articulados, los cuales están vinculados entre sí mediante un eje o una bisagra en su sector superior. Con un compás es posible registrar distancias y dibujar arcos o círculos (Definicion.de, s.f.).<br><br>Instrumento formado por dos brazos articulados terminados en punta y unidos por un eje en su parte superior, que sirve para trazar circunferencias o arcos y tomar distancias (Real Academia Española, s.f.).',
+        'Es un instrumento que cuenta con un par de brazos articulados, los cuales están vinculados entre sí mediante un eje o una bisagra en su sector superior. Con un compás es posible registrar distancias y dibujar arcos o círculos (Definición.de, s.f.).<br><br>Instrumento formado por dos brazos articulados terminados en punta y unidos por un eje en su parte superior, que sirve para trazar circunferencias o arcos y tomar distancias (Real Academia Española, s.f.).',
     },
     {
       termino: 'Concepto',
@@ -633,7 +633,7 @@ export default {
     {
       termino: 'Línea',
       significado:
-        'Del latín linea, es un término con múltiples usos. Se trata, para la geometría, de una seguidilla de puntos que se extiende indefinidamente y de manera continua en una única dimensión (Definicion.de, s.f.).<br><br>1. F. Geom. Sucesión continua e indefinida de puntos. 2. F. Medida longitudinal que equivale a cerca de dos milímetros. 3. F. Raya en un cuerpo cualquiera. (Real Academia Española, s.f.).',
+        'Del latín linea, es un término con múltiples usos. Se trata, para la geometría, de una seguidilla de puntos que se extiende indefinidamente y de manera continua en una única dimensión (Definición.de, s.f.).<br><br>1. F. Geom. Sucesión continua e indefinida de puntos. 2. F. Medida longitudinal que equivale a cerca de dos milímetros. 3. F. Raya en un cuerpo cualquiera. (Real Academia Española, s.f.).',
     },
     {
       termino: 'Líneas',
@@ -653,7 +653,7 @@ export default {
     {
       termino: 'Modificar',
       significado:
-        'Ajustar, Cambiar una cosa variando su disposición o alguna característica sin alterar sus cualidades o características esenciales.',
+        'Ajustar, cambiar una cosa variando su disposición o alguna característica sin alterar sus cualidades o características esenciales.',
     },
     {
       termino: 'Movimiento corporal',
@@ -668,7 +668,7 @@ export default {
     {
       termino: 'Paralela',
       significado:
-        'Líneas que mantienen una equidistancia en todos sus puntos. Si las rectas A y B son paralelas, no habrá forma en que se produzca una intersección entre ambas (Definicion.de, s.f.).',
+        'Líneas que mantienen una equidistancia en todos sus puntos. Si las rectas A y B son paralelas, no habrá forma en que se produzca una intersección entre ambas (Definición.de, s.f.).',
     },
     {
       termino: 'Plano',
@@ -698,7 +698,7 @@ export default {
     {
       termino: 'Rotación',
       significado:
-        'Movimiento de un cuerpo alrededor de un eje (Real Academia Española, s.f.).<br><br>Del latín rotatĭo, es la acción y efecto de rotar (dar vueltas alrededor de un eje). Se trata de un movimiento de cambio de orientación que se produce de forma tal que, dado cualquier punto del mismo, este permanece a una distancia constante del eje de rotación (Definicion.de, s.f.).',
+        'Movimiento de un cuerpo alrededor de un eje (Real Academia Española, s.f.).<br><br>Del latín rotatĭo, es la acción y efecto de rotar (dar vueltas alrededor de un eje). Se trata de un movimiento de cambio de orientación que se produce de forma tal que, dado cualquier punto del mismo, este permanece a una distancia constante del eje de rotación (Definición.de, s.f.).',
     },
     {
       termino: 'Semántica',
@@ -732,7 +732,7 @@ export default {
     {
       termino: 'Simetría',
       significado:
-        'Del latín symmetrĭa, es la correspondencia exacta en tamaño, forma y posición de las partes de un todo (Definicion.de, s.f.).<br><br>1. F. Correspondencia exacta en forma, tamaño y posición de las partes de un todo. 3. F. Geom. Correspondencia exacta en la disposición regular de las partes o puntos de un cuerpo o figura con relación a un centro, un eje o un plano (Real Academia Española, s.f.).',
+        'Del latín symmetrĭa, es la correspondencia exacta en tamaño, forma y posición de las partes de un todo (Definición.de, s.f.).<br><br>1. F. Correspondencia exacta en forma, tamaño y posición de las partes de un todo. 3. F. Geom. Correspondencia exacta en la disposición regular de las partes o puntos de un cuerpo o figura con relación a un centro, un eje o un plano (Real Academia Española, s.f.).',
     },
     {
       termino: 'Tamaño',
@@ -756,7 +756,7 @@ export default {
     {
       termino: 'Traslación',
       significado:
-        'Movimiento de los cuerpos que siguen curvas de gran radio con relación a sus propias dimensiones (Real Academia Española, s.f.).<br><br>Cuando se habla de trasladar figuras geométricas, sean bidimensionales o tridimensionales, en el espacio (Definicion.de., s.f.).',
+        'Movimiento de los cuerpos que siguen curvas de gran radio con relación a sus propias dimensiones (Real Academia Española, s.f.).<br><br>Cuando se habla de trasladar figuras geométricas, sean bidimensionales o tridimensionales, en el espacio (Definición.de., s.f.).',
     },
     {
       termino: 'Triángulo equilátero',
